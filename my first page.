@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+ <head>
+     <title>KARMA</title>
+ </head>
+ <body>
+     <h1>KARMA</h1>
+     <P>
+         <b>KARMA means action,work or deed</b>.The term also refers to the spiritual principle of cause and effect,often discriptively called the principle of karma,wherein intent and actions of an individual.Good deed and good intent contribut to good karma and happier rebirth ,while bad intent contributes to bad karma and bad rebirth.
+     </P>
+     <img src="https://www.dadabhagwan.org/media/1585/1-karma.jpg" height="300px" width="300px">
+    
+  <h2> TIME</h2>
+
+<P>    When a bird is alive ,it eats ants. When bird has died.Ants eat it.One tree can be made into a miliion matchsticks.But only a match is needed to burn milions trees! Circumstances can change at any time. Don't devalue at any time or anyone int his life. You may be powerful today but time is more powerful than you.</P>
+ 
+<h2>  DEEDS</h2>
+<p>    Nothing happens by chance , by fate .<b>You create your own fate by your actions</b>. that's karma.</p>
+<P><b>Do you want to know such facts about karma ?? </b><br>If yes,then plz register yourself</br>
+</P>
+
+<p><b>REGISTRATION FORM:</b></p>
+<div id="reg.form">
+    <form>
+        <label for="firstname">first name: </label>
+        <input type="text"name="firstname"placeholder="first name"required>
+        <label for="lastname">last name: </label>
+        <input type="text"name="lastname"placeholder="last name"required>
+    </form>
+</div>
+<div>
+    <label for="gender.male">male:</label>
+    <input type="radio"name="gender-choice"value="choice-1">
+    <label for="gender.female">female:</label>
+    <input type="radio"name="gender-choice"value="choice-2">
+    <label for="gender.others">others:</label>
+    <input type="radio"name="gender-choice"value="choice-3">
+    <link rel="html2sheet" href="html2.css">
+    
+</div>
+<div>
+    <label for="email">Email:</label>
+    <input type="email"name="email" placeholder="xyz@gmail.com">
+    <label for="password">Password(mini 8 characters):</label>
+    <input type="password"name="password" placeholder="njsdhu@dh">
+</div>
+
+<div>
+    <label for="submit">submit:</label>
+    <input type="submit"name="submit">
+</div>
+<p></p>
+<a href="https://www.google.com/search?q=karma+quotes+images&sxsrf=ALeKk00-NmmR3lEIAnwRMkS53-6md3tSew%3A1626251162392&ei=mp_uYJKfF-yb4-EPiPqn6Aw&oq=karma+quoto&gs_lcp=Cgdnd3Mtd2l6EAEYATIHCAAQsQMQCjIECAAQQzIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjoHCAAQRxCwAzoICAAQsQMQkQI6BQgAEJECOgIIAEoECEEYAFDE0iFYrfQhYLmLImgBcAJ4AoABrwuIAdUjkgEFNi00LjGYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz">click here to see some more quotos</a>
+<hr width="60%"></hr>
+</body>
+</html>
